@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="title_test_size">32sp</dimen>
+    <dimen name="description_test_size">28sp</dimen>
+
+    <integer name="items_in_row">3</integer>
+
+</resources>

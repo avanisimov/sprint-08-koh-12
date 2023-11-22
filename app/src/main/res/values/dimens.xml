@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="icon_24">24dp</dimen>
+    <dimen name="icon_48">24dp</dimen>
+
+
+    <dimen name="title_test_size">16sp</dimen>
+    <dimen name="description_test_size">14sp</dimen>
+
+    <integer name="items_in_row">2</integer>
+</resources>
